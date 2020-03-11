@@ -3,8 +3,12 @@
   - 100% compatibility across browsers with the actual value
 */
 
+// SASS VARIABLES
+// - 100% compatibility across browsers with the actual value
 $background-color: blue;
 
+//
+
 body {
-    background: $background-color;
+  background: $background-color;
 }
